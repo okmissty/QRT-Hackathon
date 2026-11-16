@@ -7,6 +7,13 @@ by QRT with help from an LLM.
 
 Team: **Math is Fun**
 
+Team members:
+
+- Tyeon Ford
+- Sophia Sun
+- Fay Lyu
+- Toufeeq Mohammed
+
 ## Solution Files
 
 | Challenge | File | Language | Entry Point |
